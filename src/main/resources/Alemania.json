@@ -1,0 +1,9 @@
+{
+  "nombre": "Alemania",
+  "continente": "Europa",
+  "habitantes": 50000000,
+  "idiomas": [
+    "Aleman",
+    "Ingles"
+  ]
+}

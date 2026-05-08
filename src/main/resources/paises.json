@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Nueva Zelanda",
+    "continente": "Oceania",
+    "habitantes": 1500000,
+    "idiomas": [
+      "NuevoZelandes",
+      "Ingles",
+      "Español"
+    ]
+  },
+  {
+    "nombre": "Mongolia",
+    "continente": "Asia",
+    "habitantes": 25400,
+    "idiomas": [
+      "Mongol",
+      "Ingles",
+      "Español"
+    ]
+  }
+]
